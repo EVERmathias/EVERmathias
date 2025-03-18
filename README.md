@@ -1,16 +1,44 @@
-## Hi there 👋
+## Seja bem-vindo! 
 
-<!--
-**EVERmathias/EVERmathias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Éverton Mathias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+         <p>
+            <img align="left" src="https://github-readme-stats.vercel.app/api?username=EVERmathias&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" alt="EVERmathias">
+        </p>
+</div>
+
+
+
+
+<br />
+<br />
+<br />
+
+
+## Línguagens de programação e ferramentas
+
+<p align="left">
+    <a href ="https://www.python.org" taget="blank_">
+        <img src="\icons\python.png" alt="SQL" width="30" height="30"/>
+    <a/>
+
+    <a href ="https://numpy.org" taget="blank_">
+        <img src="\icons\numpy.png" alt="Numpy" width="30" height="30"/>
+    <a/>
+
+    <a href ="https://pandas.pydata.org" taget="blank_">
+        <img src="\icons\pandas.png" alt="Pandas" width="30" height="30"/>
+    <a/>
+
+    <a href ="https://pandas.pydata.org" taget="blank_">
+        <img src="\icons\mysql.png" alt="SQL" width="30" height="30"/>
+    <a/>
+
+    
+
+
+
+</p>
+
