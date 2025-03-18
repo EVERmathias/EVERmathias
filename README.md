@@ -32,7 +32,7 @@
     <a/>
 
     <a href ="https://numpy.org" taget="blank_">
-        <img src="\icons\numpy.png" alt="Numpy" width="30" height="30"/>
+        <img src="\EVERmathias\icons\numpy.png" alt="Numpy" width="30" height="30"/>
     <a/>
 
     <a href ="https://pandas.pydata.org" taget="blank_">
