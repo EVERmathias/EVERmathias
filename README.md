@@ -1,7 +1,6 @@
-## Seja bem-vindo! 
+### Seja bem-vindo! 
 
 
-### Éverton Mathias
 
 <div>
      <p>
@@ -18,6 +17,11 @@
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
+
 
 
 ## Línguagens de programação e ferramentas
