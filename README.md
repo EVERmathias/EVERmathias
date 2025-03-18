@@ -27,7 +27,7 @@
 ## Línguagens de programação e ferramentas:
 
 <p align="left">
-    <a href ="https://www.python.org" taget="_blank">
+    <a href ="https://www.python.org" target="_blank">
         <img src="icons/python.png" alt="SQL" width="30" height="30" />
     </a>
 
