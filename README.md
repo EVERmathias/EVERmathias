@@ -33,7 +33,7 @@
 
 
     <a href ="https://numpy.org" taget="_blank">
-        <img src="/icons/numpy.png" alt="Numpy" width="40" height="40" />
+        <img src="/icons/numpy.svg" alt="Numpy" width="40" height="40" />
     <a/>
 
 
