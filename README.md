@@ -1,13 +1,11 @@
-# Olá, seja bem-vindo! 
+# Olá, seja bem-vindo! 👋
 
 
-### Meu nome é Everton Mathias e sou iniciante na área de dados 
+### Iniciante na área de dados! 📊
 
-#### Contato
-
-- [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/everton-mathias-627229319/)
-
-- [![Social](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/evertonmathias)
+### Contato📱
+[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/everton-mathias-627229319/)
+[![Social](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/evertonmathias)
 
 <div>
      <p>
@@ -32,15 +30,12 @@
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
 
 
 
 
-## Línguagens de programação e ferramentas:
+
+### Línguagens de programação e ferramentas 💻
 
 <div style="display:inline_block"></br>
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
